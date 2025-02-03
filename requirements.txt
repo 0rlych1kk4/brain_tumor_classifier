@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+pillow
+python-multipart
+
+
+gunicorn
+sqlalchemy
+psycopg2-binary
